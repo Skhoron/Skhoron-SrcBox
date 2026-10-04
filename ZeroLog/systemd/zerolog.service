@@ -1,0 +1,12 @@
+[Unit]
+Description=ZeroLog compliance check before node starts
+After=network.target
+Before=stp.service
+
+[Service]
+Type=oneshot
+ExecStart=/usr/local/bin/zerolog.sh --check
+RemainAfterExit=yes
+
+[Install]
+WantedBy=multi-user.target
