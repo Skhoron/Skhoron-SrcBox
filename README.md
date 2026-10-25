@@ -1,11 +1,10 @@
-# Skhoron-SrcBox
+Skhoron-SrcBox
 
-Небольшие скрипты и мини-проекты Skhoron в одном репозитории.
+Small Skhoron scripts and mini-projects in one repository.
 
-Каждый проект лежит в своей папке со своим README. Если проект перерастает репозиторий, он выносится в отдельный репо.
+Each project is located in its own folder with its own README. If a project outgrows the repository, it is moved to a separate repo.
 
-## Использование
+Usage
 
-```sh
 git clone https://github.com/Skhoron/Skhoron-SrcBox.git
-cd Skhoron-SrcBox/<папка>
+cd Skhoron-SrcBox/<folder>
