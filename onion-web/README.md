@@ -56,5 +56,3 @@ python onion_random.py -a --port 9050        # если используешь �
 - Не тестировался против живой сети. Возможны баги.
 
 ## Лицензия
-
-Apache License 2.0. См. текст лицензии: http://www.apache.org/licenses/LICENSE-2.0
